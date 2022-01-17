@@ -1,0 +1,14 @@
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+C:\Users\icani\source\repos\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.AssemblyReference.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+C:\Users\icani\source\repos\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
